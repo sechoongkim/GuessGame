@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	color: #555555;
+	font-family: Arial;
+}
+
+form{
+	text-align: right;
+	color:red;
+	padding-bottom: 10px;
+
+}
+
+
+body {
+	color: white;
+	text-align: center;
+	background: url(http://img01.deviantart.net/4ceb/i/2012/358/4/b/wwe_wallpaper_by_xmyonli-d5ozh24.png)
+}
+	
+
+
+button{
+	padding-bottom: 10px;
+}
